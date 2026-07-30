@@ -83,7 +83,7 @@ export const STUDENTS = [
     gender: 'female',
     photo: '/images/Fiza.jpeg',
     marks: '497 / 555',
-    percentage: '90.36%',
+    percentage: '89.55%',
     rank: 3,
     isTopGirl: true,
     achievement: '🥉 Bronze Medalist',
